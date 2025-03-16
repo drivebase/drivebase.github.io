@@ -9,8 +9,6 @@ Drivebase currently supports the following providers:
 - [Google Drive](/docs/providers/google-drive.md)
 - [OneDrive](/docs/providers/onedrive.md)
 - [Dropbox](/docs/providers/dropbox.md)
-- [WebDAV](/docs/providers/webdav.md)
-
 
 ## Adding a new provider
 

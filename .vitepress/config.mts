@@ -6,6 +6,7 @@ export default defineConfig({
   description:
     'Next-generation cloud-agnostic file management application that empowers users to organize, upload, and access files across multiple cloud providers.',
   base: '/docs/',
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

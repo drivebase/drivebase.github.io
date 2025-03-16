@@ -14,7 +14,6 @@ pids
 # Dependency directories
 node_modules/
 yarn.lock
-pnpm-lock.yaml
 
 # Caches
 .temp

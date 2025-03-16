@@ -18,7 +18,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Providers', link: '/providers' },
+      { text: 'Providers', link: '/docs/providers' },
     ],
 
     sidebar: [

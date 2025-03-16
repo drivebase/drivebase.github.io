@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: "Get Started"
-      link: /getting-started
+      link: /docs/quick-start
     - theme: alt
       text: "Source Code"
       link: https://github.com/drivebase/drivebase

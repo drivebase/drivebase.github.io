@@ -5,6 +5,7 @@ export default defineConfig({
   title: 'Drivebase',
   description:
     'Next-generation cloud-agnostic file management application that empowers users to organize, upload, and access files across multiple cloud providers.',
+  base: '/docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
